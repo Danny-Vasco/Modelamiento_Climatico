@@ -1,0 +1,16 @@
+*.tif
+*.tif.aux.xml
+*.shp
+*.dbf
+*.prj
+*.shx
+*.cpg
+*.qmd
+*.gpkg
+*.sqlite
+*.db
+*.zip
+*.rar
+*.7z
+Codigo_Python/
+
